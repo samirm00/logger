@@ -1,24 +1,25 @@
 {
-  "name": "get-date-time-now",
-  "version": "1.0.0",
-  "description": "get date and time",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/samirm00/now.git"
-  },
-  "keywords": [
-    "time",
-    "now",
-    "date"
-  ],
-  "author": "samirm00",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/samirm00/now/issues"
-  },
-  "homepage": "https://github.com/samirm00/now#readme"
+    "name": "get-date-time-now",
+    "type": "module",
+    "version": "1.0.1",
+    "description": "get date and time",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/samirm00/now.git"
+    },
+    "keywords": [
+        "time",
+        "now",
+        "date"
+    ],
+    "author": "samirm00",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/samirm00/now/issues"
+    },
+    "homepage": "https://github.com/samirm00/now#readme"
 }
