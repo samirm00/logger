@@ -1,7 +1,7 @@
 {
     "name": "get-date-time-now",
     "type": "module",
-    "version": "2.0.4",
+    "version": "2.0.5",
     "description": "get date and time",
     "main": "index.js",
     "scripts": {
