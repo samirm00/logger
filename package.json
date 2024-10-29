@@ -1,7 +1,7 @@
 {
-    "name": "get-date-time-now",
+    "name": "datecraft",
     "type": "module",
-    "version": "2.0.5",
+    "version": "1.0.0",
     "description": "get date and time",
     "main": "index.js",
     "scripts": {
@@ -9,17 +9,17 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/samirm00/now.git"
+        "url": "git+https://github.com/sammou00/datecraft.git"
     },
     "keywords": [
         "time",
         "now",
         "date"
     ],
-    "author": "samirm00",
+    "author": "sammou00",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/samirm00/now/issues"
+        "url": "https://github.com/sammou00/datecraft/issues"
     },
-    "homepage": "https://github.com/samirm00/now#readme"
+    "homepage": "https://github.com/sammou00/datecraft#readme"
 }

@@ -1,4 +1,4 @@
-class DateTime {
+class Datecraft {
     constructor() {
         this.days = [
             'Sunday',
@@ -80,4 +80,4 @@ class DateTime {
     };
 }
 
-export default DateTime;
+export default Datecraft;

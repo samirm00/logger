@@ -1,21 +1,21 @@
-# DateTime
+# Datecraft
 
-The `DateTime` class is a JavaScript class that provides methods for handling date and time.
+The `Datecraft` class is a JavaScript class that provides methods for handling date and time.
 
 ## Installation
 
 ```bash
-npm i get-date-time-now
+npm i datecraft
 ```
 
 ## Usage
 
 ```javascript
-// Import the DateTime class
-import DateTime from 'get-date-time-now';
+// Import the Datecraft class
+import Datecraft from 'datecraft';
 
-// Create an instance of the DateTime class
-const dateTime = new DateTime();
+// Create an instance of the Datecraft class
+const dateTime = new Datecraft();
 
 // Get the current day
 const currentDay = dateTime.getCurrentDay(); // ex: Sunday
