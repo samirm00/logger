@@ -11,7 +11,7 @@ npm i dayframe
 ## Usage
 
 ```javascript
-// Import the Dayframe class
+// Import  Dayframe class
 import Dayframe from 'dayframe';
 
 // Create an instance of the Dayframe class
