@@ -1,5 +1,5 @@
 {
-    "name": "datecraft",
+    "name": "dayframe",
     "type": "module",
     "version": "1.0.0",
     "description": "get date and time",
@@ -9,7 +9,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/sammou00/datecraft.git"
+        "url": "git+https://github.com/sammou00/dayframe.git"
     },
     "keywords": [
         "time",
@@ -19,7 +19,7 @@
     "author": "sammou00",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/sammou00/datecraft/issues"
+        "url": "https://github.com/sammou00/dayframe/issues"
     },
-    "homepage": "https://github.com/sammou00/datecraft#readme"
+    "homepage": "https://github.com/sammou00/dayframe#readme"
 }

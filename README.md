@@ -1,21 +1,21 @@
-# Datecraft
+# Dayframe
 
-The `Datecraft` class is a JavaScript class that provides methods for handling date and time.
+The `Dayframe` class is a JavaScript class that provides methods for handling date and time.
 
 ## Installation
 
 ```bash
-npm i datecraft
+npm i dayframe
 ```
 
 ## Usage
 
 ```javascript
-// Import the Datecraft class
-import Datecraft from 'datecraft';
+// Import the Dayframe class
+import Dayframe from 'dayframe';
 
-// Create an instance of the Datecraft class
-const dateTime = new Datecraft();
+// Create an instance of the Dayframe class
+const dateTime = new Dayframe();
 
 // Get the current day
 const currentDay = dateTime.getCurrentDay(); // ex: Sunday
